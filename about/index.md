@@ -12,4 +12,4 @@ comments: false
 * [word_cloud](https://github.com/amueller/word_cloud)
 * [free-python-games](https://github.com/grantjenks/free-python-games)
       
-[HACore github](https://github.com/HACore){: .btn}
+[5조 홈페이지](https://20-1-skku-oss.github.io/2020-1-OSS-5){: .btn}
