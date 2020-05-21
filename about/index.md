@@ -1,37 +1,15 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About Haeun Lee
+tags: [about, Jekyll, theme]
+date: 2020-05-22
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="https://github.com/20-1-SKKU-OSS"><b>오픈소스소프트웨어실습</b></a>을 수강중이며, <a href="https://github.com/20-1-SKKU-OSS/2020-1-OSS-5"><b>5조</b></a>에 속해있습니다.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
-
-## Preview
-
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
+## 진행 예정 프로젝트
+* <a href="https://github.com/amueller/word_cloud">word_cloud</a>
+* <a href="https://github.com/grantjenks/free-python-games">free-python-games</a>
       
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+[HACore github](https://github.com/HACore){: .btn}
