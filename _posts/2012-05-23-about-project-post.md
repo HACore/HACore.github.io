@@ -108,10 +108,10 @@ wordcloud 프로젝트가 대형 오픈소스프로젝트임에도 불구하고,
 
 
 
-### 7. Links
+### 6. Links
 * The original page - [amueller/word_cloud][original_page] 
 * SKKU team repository - [20-1-SKKU-OSS/2020-1-OSS-5][Groupreposit]
-* My personal repository - [davidshyn1/2020-1-OSS-5][personalreposit]
+* My personal repository - [https://github.com/HACore/2020-1-OSS-5][personalreposit]
 
 [blog_post]: http://peekaboo-vision.blogspot.de/2012/11/a-wordcloud-in-python.html
 [website]: http://amueller.github.io/word_cloud/
